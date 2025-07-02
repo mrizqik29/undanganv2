@@ -311,7 +311,7 @@ function scrollToAcara() {
   width: 48.7rem;
   height: 100rem;
   z-index: -2;
-  opacity: 17%;
+  opacity: 10%;
   background-image: var(--background);
   background-repeat: repeat;
   background-position: center rem;
@@ -489,7 +489,7 @@ function scrollToAcara() {
   width: 48.7rem;
   height: 100rem;
   z-index: -2;
-  opacity: 17%;
+  opacity: 10%;
   background-image: var(--background);
   background-repeat: repeat;
   background-position: center rem;
@@ -594,7 +594,7 @@ function scrollToAcara() {
   width: 49rem;
   height: 100rem;
   z-index: -2;
-  opacity: 17%;
+  opacity: 10%;
   background-image: var(--background);
   background-repeat: repeat;
   background-position: center 23rem;
@@ -698,7 +698,7 @@ function scrollToAcara() {
   width: 49rem;
   height: 100rem;
   z-index: -2;
-  opacity: 17%;
+  opacity: 10%;
   background-image: var(--background);
   background-repeat: repeat;
   background-position: center 23rem;
@@ -802,7 +802,7 @@ function scrollToAcara() {
   width: 48.7rem;
   height: 100rem;
   z-index: -2;
-  opacity: 17%;
+  opacity: 10%;
   background-image: var(--background);
   background-repeat: repeat;
   background-position: center rem;
@@ -907,7 +907,7 @@ function scrollToAcara() {
   width: 48.7rem;
   height: 100rem;
   z-index: -2;
-  opacity: 17%;
+  opacity: 10%;
   background-image: var(--background);
   background-repeat: repeat;
   background-position: center rem;
@@ -1011,7 +1011,7 @@ function scrollToAcara() {
   width: 48.7rem;
   height: 100rem;
   z-index: -2;
-  opacity: 17%;
+  opacity: 10%;
   background-image: var(--background);
   background-repeat: repeat;
   background-position: center rem;
@@ -1115,7 +1115,7 @@ function scrollToAcara() {
   width: 48.7rem;
   height: 100rem;
   z-index: -2;
-  opacity: 17%;
+  opacity: 12%;
   background-image: var(--background);
   background-repeat: repeat;
   background-position: center rem;
